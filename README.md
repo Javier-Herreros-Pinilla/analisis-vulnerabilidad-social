@@ -7,7 +7,7 @@ Desarrollar un modelo de predicción robusto y riguroso, enfocado en la solidez 
 
 ## 📂 Datos y Preprocesamiento
 *   **Fuente de Datos:** Banco Mundial (indicadores post-2000).
-*   **Estrategia de Limpieza:** Recorte temporal y poda de variables con más de un 80% de valores nulos (Opción 3).
+*   **Estrategia de Limpieza:** Recorte temporal y poda de variables con más de un 80% de valores nulos (Opción 3 entre las propuestas).
 *   **Volumen de Datos Final:** 6,864 registros con una escasez global (*sparsity*) manejada del 25.93%.
 *   **Variable Objetivo (Target):** `Target_PCA_100`, un índice sintético de vulnerabilidad generado mediante Análisis de Componentes Principales (PCA).
 

@@ -1,9 +1,9 @@
 # Predicción de Vulnerabilidad Socioeconómica Global 🌍📊
 
-Este repositorio contiene el código, los datos y la metodología desarrollada para el Trabajo de Fin de Grado (TFG) centrado en la creación de un modelo predictivo de vulnerabilidad socioeconómica a nivel global utilizando técnicas de Machine Learning.
+Este repositorio contiene el código, los datos y la metodología de un proyecto centrado en la creación de un modelo predictivo de vulnerabilidad socioeconómica a nivel global utilizando técnicas de Machine Learning.
 
 ## 🎯 Objetivo del Proyecto
-Desarrollar un modelo de predicción de alta calidad académica enfocado en la robustez metodológica, la interpretabilidad de los resultados y una validación técnica rigurosa para entender los factores determinantes de la vulnerabilidad socioeconómica en diferentes países.
+Desarrollar un modelo de predicción robusto y riguroso, enfocado en la solidez metodológica, la interpretabilidad de los resultados y una validación técnica exhaustiva para entender los factores determinantes de la vulnerabilidad socioeconómica en diferentes países.
 
 ## 📂 Datos y Preprocesamiento
 *   **Fuente de Datos:** Banco Mundial (indicadores post-2000).
@@ -43,5 +43,3 @@ El modelo optimizado ha revelado que la vulnerabilidad socioeconómica global se
 2.  **Mortalidad Materna (`SH.STA.MMRT`).**
 3.  **Efectividad Gubernamental (`GOV_WGI_GE_SC`).**
 4.  **Estado de Derecho (`GOV_WGI_RL_SC`).**
-
----
